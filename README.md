@@ -1,5 +1,3 @@
-# μC/OS-III embedded OS based weather station implemented on the NXP Freedom-K64F development board
-
 ## Documentation
 
 The files I modified are located at:
